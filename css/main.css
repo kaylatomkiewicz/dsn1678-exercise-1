@@ -39,7 +39,6 @@ img {
 	font-style: italic;
 	font-size: 1.25rem;
 	font-family: "times new roman", serif;
-	overflow: none;
 	margin-top: -5rem;
 	margin-bottom: 4rem;
 	background-color: #000000;
@@ -76,16 +75,3 @@ img {
 .last {
 	border-right: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
